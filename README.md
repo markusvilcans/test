@@ -1,1 +1,0 @@
-Jauna repository readme fails.
